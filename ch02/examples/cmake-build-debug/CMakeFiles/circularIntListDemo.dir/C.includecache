@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/edz/project/data-structure/ch02/examples/circularIntNode.c
+circularIntNode.h
+/Users/edz/project/data-structure/ch02/examples/circularIntNode.h
+
+/Users/edz/project/data-structure/ch02/examples/circularIntNode.h
+stdio.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/edz/project/data-structure/ch02/examples/singlyIntNode.c
+singlyIntNode.h
+/Users/edz/project/data-structure/ch02/examples/singlyIntNode.h
+
+/Users/edz/project/data-structure/ch02/examples/singlyIntNode.h
+stdio.h
+-
+stdlib.h
+-
+
